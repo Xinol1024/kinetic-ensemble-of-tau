@@ -1,5 +1,5 @@
 # Kinetic ensemble of tau
-Code for "A Kinetic Ensemble of Tau Protein through Markov State Model and Deep Learning Analysis"
+Code for "A Kinetic Ensemble of Tau Protein through Markov State Model and Deep Learning Analysis".
 ## Environment
 | Environment   | Requirement   |
 |---------------|----------|
